@@ -1,0 +1,18 @@
+action = where to send the data
+method = how to send the data
+    1. GET
+    2. POST
+
+action = kaha   index.php, form.php
+method = kese  1. GET  2. POST 3. PUT  4. DELETE
+
+SQL = Structured Query Language
+
+mysqli_real_escape_string() is MySQL Function
+
+
+    PHP_SELF = current Page 
+
+    $_SERVER['PHP_SELF']
+
+    Client(HTML,CSS,JS) -----> Request(DATA) -----> Server (PHP)
